@@ -31,8 +31,6 @@ def ecoute ():
     s.runAndWait()
 
 
-
-
 def ecoute1 ():
     s = pyttsx3.init() 
     data = T1.get("1.0" , END)
@@ -55,6 +53,8 @@ def leave1 (event):
 root = Tk()
 root.title ("Translator")
 root.geometry("800x300")
+root.iconbitmap("./img/logo.ico")
+
 
 #-------------------------------
 # Création de la liste combobox
