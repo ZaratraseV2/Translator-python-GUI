@@ -53,7 +53,7 @@ def leave1 (event):
 root = Tk()
 root.title ("Translator")
 root.geometry("800x300")
-root.iconbitmap("./img/logo.ico")
+root.iconbitmap("./logo.ico")
 
 
 #-------------------------------
