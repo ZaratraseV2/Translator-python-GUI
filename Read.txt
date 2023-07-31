@@ -5,4 +5,4 @@ Version: 1.0
 How can I run the tool:
 
 1 - Run "setup" (wait the installation of library)
-2 - Run "Traducteur"
+2 - Run "Traducteur.py"
