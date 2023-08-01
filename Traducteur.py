@@ -59,10 +59,10 @@ root.iconbitmap("./icon/logo.ico")
 #-------------------------------
 # Création de la liste combobox
 #-------------------------------
-labelChooseLang = Label(root, text = "Choose language source" , font = ("Courrier" , 13)) 
+labelChooseLang = Label(root, text = "Choose language source" , font = ("Halvetica" , 13)) 
 labelChooseLang.place(x = 20 , y = 50)
 
-labelLangTraduct = Label(root, text = "Destination language" , font = ("Courrier" , 13)) 
+labelLangTraduct = Label(root, text = "Destination language" , font = ("Halvetica" , 13)) 
 labelLangTraduct.place(x = 430 , y = 50)
 
 
